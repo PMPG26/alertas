@@ -5,7 +5,7 @@ import altair as alt
 
 # Page title
 st.set_page_config(page_title='Interactive Data Explorer', page_icon='📊')
-st.title('📊 Interactive Data Explorer')
+st.title('📊 Alertas Meteorológicos')
 
 with st.expander('About this app'):
   st.markdown('**What can this app do?**')
